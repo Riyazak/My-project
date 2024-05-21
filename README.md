@@ -1,2 +1,1 @@
-"# My-project" 
-"# My-Project_BAD" 
+This is my first Github project
